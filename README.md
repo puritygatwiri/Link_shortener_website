@@ -1,1 +1,1 @@
-using React, Typescript and vite
+using Typescript and React framework
