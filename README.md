@@ -11,4 +11,8 @@ after the app is built
 
 cd into your new project(cd <projectname>)
 npm install
-npm run dev 
+npm run dev
+
+//generate the API KEY
+login into https://app.bitly.com/ and create an account
+generate your access token 
